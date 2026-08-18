@@ -1,102 +1,108 @@
 ```text
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                                                                              ║
-║                         NOTGUIZY                                             ║
-║                                                                              ║
-║          Computing  ·  Cybersecurity  ·  Linux  ·  Philosophy                ║
-║                                                                              ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-```
 
-<div align="right">
+                    .----------------.
+                   /                /|
+                  /      +----+    / |
+                 /      /    /|   /  |
+                +------+----+ |  +   |
+                |      |    | +  |   |
+                |      |    |/   |  /
+                +------+----+    | /
+                 \               |/
+                  \--------------+
 
-<img src="https://raw.githubusercontent.com/QubesOS/qubes-artwork/main/icons/scalable/qubes-logo.svg" width="90">
+                  Q U B E S   M I N D S E T
 
-</div>
 
-```text
-┌──────────────────────────────────────────────────────────────────────────────┐
-│                                                                              │
-│  > whoami                                                                    │
-│                                                                              │
-│  notguizy                                                                    │
-│                                                                              │
-│  Curious about computers, systems, security and the things                   │
-│  that exist beyond what we can immediately understand.                       │
-│                                                                              │
-└──────────────────────────────────────────────────────────────────────────────┘
-```
+  ------------------------------------------------------------------------
+                               $ whoami
+  ------------------------------------------------------------------------
 
-### `LANGUAGES`
+       notguizy
 
-```text
-HTML          ████████████████████
-CSS           ████████████████████
-JavaScript    ████████████████████
-```
+       Computing • Cybersecurity • Linux • Systems
 
-### `FOUNDATIONS`
+       Curious about how things work beneath the surface.
 
-```text
-[+] Computer Science / Informatics
-[+] Linux Fundamentals
-[+] Windows & Active Directory Fundamentals
-[+] Networking Fundamentals
-```
 
-### `CURRENTLY LEARNING`
+  ------------------------------------------------------------------------
+                              LANGUAGES
+  ------------------------------------------------------------------------
 
-```text
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│  CS50 — Introduction to Computer Science                    │
-│  Cybersecurity                                              │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
+       [ HTML ]              [ CSS ]              [ JavaScript ]
 
-### `INTERESTS`
 
-```text
-        ART
-         │
-         ├── PHILOSOPHY
-         │
-         ├── ASTROPHYSICS
-         │
-         └── QUANTUM PHYSICS
-```
+  ------------------------------------------------------------------------
+                            FOUNDATIONS
+  ------------------------------------------------------------------------
 
-### `MINDSET`
+       [x] Informatics
+       [x] Linux Fundamentals
+       [x] Windows & Active Directory Fundamentals
+       [x] Networking Fundamentals
 
-```text
-             LIGHT
-               │
-               │
-          ┌────┴────┐
-          │         │
-       SHADOW      TRUTH
-          │         │
-          └────┬────┘
-               │
-             NOISE
-               │
-            SILENCE
-               │
-            MADNESS
-               │
-            WISDOM
-```
 
-> **"One cannot see the light without the shadow, one cannot perceive**
-> **silence without noise, one cannot attain wisdom without madness."**
+  ------------------------------------------------------------------------
+                          CURRENTLY LEARNING
+  ------------------------------------------------------------------------
 
-```text
-┌──────────────────────────────────────────────────────────────────────────────┐
-│                                                                              │
-│                         LEARN. BUILD. THINK.                                 │
-│                                                                              │
-│                         ── notguizy ──                                       │
-│                                                                              │
-└──────────────────────────────────────────────────────────────────────────────┘
+       > CS50 — Introduction to Computer Science
+       > Cybersecurity
+
+
+  ------------------------------------------------------------------------
+                              INTERESTS
+  ------------------------------------------------------------------------
+
+       Art                    Philosophy
+
+       Astrophysics           Quantum Physics
+
+
+  ------------------------------------------------------------------------
+                              MINDSET
+  ------------------------------------------------------------------------
+
+                            +---------+
+                            |  LIGHT  |
+                            +----+----+
+                                 |
+                                 v
+                            +---------+
+                            | SHADOW  |
+                            +----+----+
+                                 |
+                                 v
+                            +---------+
+                            | SILENCE |
+                            +----+----+
+                                 |
+                                 v
+                            +---------+
+                            |  NOISE  |
+                            +----+----+
+                                 |
+                                 v
+                            +---------+
+                            | MADNESS |
+                            +----+----+
+                                 |
+                                 v
+                            +---------+
+                            | WISDOM  |
+                            +---------+
+
+
+  ------------------------------------------------------------------------
+                              PHILOSOPHY
+  ------------------------------------------------------------------------
+
+       "One cannot see the light without the shadow,
+        one cannot perceive silence without noise,
+        one cannot attain wisdom without madness."
+
+
+  ------------------------------------------------------------------------
+
+             
 ```
