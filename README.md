@@ -21,7 +21,7 @@
         ║                                                            ║
         ║        Computing • Cybersecurity • Linux • Systems         ║
         ║                                                            ║
-        ║        Curious about how things work beneath the surface.  ║
+        ║     Curious about how things work beneath the surface.     ║
         ║                                                            ║
         ╚════════════════════════════════════════════════════════════╝
 
@@ -29,7 +29,7 @@
         ╔════════════════════════════════════════════════════════════╗
         ║                         LANGUAGES                          ║
         ║                                                            ║
-        ║        [ HTML ]          [ CSS ]          [ JavaScript ]   ║
+        ║      [ HTML ]          [ CSS ]          [ JavaScript ]     ║
         ║                                                            ║
         ╚════════════════════════════════════════════════════════════╝
 
