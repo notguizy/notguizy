@@ -101,9 +101,9 @@
         ╔════════════════════════════════════════════════════════════╗
         ║                        PHILOSOPHY                          ║
         ║                                                            ║
-        ║  "One cannot see the light without the shadow,             ║
-        ║   one cannot perceive silence without noise,               ║
-        ║   one cannot attain wisdom without madness."               ║
+        ║       "One cannot see the light without the shadow,        ║
+        ║        one cannot perceive silence without noise,          ║
+        ║        one cannot attain wisdom without madness."          ║
         ║                                                            ║
         ╚════════════════════════════════════════════════════════════╝
 
