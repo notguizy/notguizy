@@ -20,8 +20,6 @@
         ║                                                            ║
         ║        Computing • Cybersecurity • Linux • Systems         ║
         ║                                                            ║
-        ║     Curious about how things work beneath the surface.     ║
-        ║                                                            ║
         ╚════════════════════════════════════════════════════════════╝
 
 
@@ -36,7 +34,7 @@
         ╔════════════════════════════════════════════════════════════╗
         ║                        FOUNDATIONS                         ║
         ║                                                            ║
-        ║        [x] Informatics                                     ║
+        ║                                                            ║
         ║        [x] Linux Fundamentals                              ║
         ║        [x] Windows & Active Directory Fundamentals         ║
         ║        [x] Networking Fundamentals                         ║
@@ -49,6 +47,7 @@
         ║                                                            ║
         ║        > CS50 — Introduction to Computer Science           ║
         ║        > Cybersecurity                                     ║
+        ║        > C & Python                                        ║
         ║                                                            ║
         ╚════════════════════════════════════════════════════════════╝
 
@@ -64,42 +63,6 @@
 
 
         ╔════════════════════════════════════════════════════════════╗
-        ║                           MINDSET                          ║
-        ║                                                            ║
-        ║                         +---------+                        ║
-        ║                         |  LIGHT  |                        ║
-        ║                         +----+----+                        ║
-        ║                              |                             ║
-        ║                              v                             ║
-        ║                         +---------+                        ║
-        ║                         | SHADOW  |                        ║
-        ║                         +----+----+                        ║
-        ║                              |                             ║
-        ║                              v                             ║
-        ║                         +---------+                        ║
-        ║                         | SILENCE |                        ║
-        ║                         +----+----+                        ║
-        ║                              |                             ║
-        ║                              v                             ║
-        ║                         +---------+                        ║
-        ║                         |  NOISE  |                        ║
-        ║                         +----+----+                        ║
-        ║                              |                             ║
-        ║                              v                             ║
-        ║                         +---------+                        ║
-        ║                         | MADNESS |                        ║
-        ║                         +----+----+                        ║
-        ║                              |                             ║
-        ║                              v                             ║
-        ║                         +---------+                        ║
-        ║                         | WISDOM  |                        ║
-        ║                         +---------+                        ║
-        ║                                                            ║
-        ╚════════════════════════════════════════════════════════════╝
-
-
-        ╔════════════════════════════════════════════════════════════╗
-        ║                        PHILOSOPHY                          ║
         ║                                                            ║
         ║       "One cannot see the light without the shadow,        ║
         ║        one cannot perceive silence without noise,          ║
