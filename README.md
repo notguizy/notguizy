@@ -64,10 +64,10 @@
 
 
         ╔════════════════════════════════════════════════════════════╗
+        ║                      INCOMING PROJECT                      ║
+        ║               <a href="https://github.com/notguizy/LivingKey">Living Key</a>║
         ║                                                            ║
-        ║       "One cannot see the light without the shadow,        ║
-        ║        one cannot perceive silence without noise,          ║
-        ║        one cannot attain wisdom without madness."          ║
+        ║                                                            ║
         ║                                                            ║
         ╚════════════════════════════════════════════════════════════╝
 
