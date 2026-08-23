@@ -55,7 +55,7 @@
         ╔════════════════════════════════════════════════════════════╗
         ║                         INTERESTS                          ║
         ║                                                            ║
-        ║        Art                    Philosophy                   ║
+        ║        biocomputing           Philosophy                   ║
         ║                                                            ║
         ║        Astrophysics           Quantum Physics              ║
         ║                                                            ║
