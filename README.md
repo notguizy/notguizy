@@ -14,11 +14,11 @@
 
         ╔════════════════════════════════════════════════════════════╗
         ║                                                            ║
-        ║                         $ whoami                            ║                       
+        ║                         $ whoami                           ║                       
         ║                                                            ║
-        ║                         notguizy                          ║
+        ║                         notguizy                           ║
         ║                                                            ║
-        ║        Computing • Cybersecurity • Linux • Systems          ║
+        ║        Computing • Cybersecurity • Linux • Systems         ║
         ║                                                            ║
         ╚════════════════════════════════════════════════════════════╝
 
@@ -33,9 +33,9 @@
 
         ╔════════════════════════════════════════════════════════════╗
         ║                        FOUNDATIONS                         ║
-        ║                                                             ║
+        ║                                                            ║
         ║        [x] Linux Fundamentals                              ║
-        ║        [x] Windows & Active Directory Fundamentals        ║
+        ║        [x] Windows & Active Directory Fundamentals         ║
         ║        [x] Networking Fundamentals                         ║
         ║                                                            ║
         ╚════════════════════════════════════════════════════════════╝
@@ -43,9 +43,9 @@
 
         ╔════════════════════════════════════════════════════════════╗
         ║                     CURRENTLY LEARNING                     ║
-        ║                                                             ║
+        ║                                                            ║
         ║        > Cybersecurity                                     ║
-        ║        > C & Python                                       ║
+        ║        > C & Python                                        ║
         ║        > Biocomputing                                      ║
         ║                                                            ║
         ╚════════════════════════════════════════════════════════════╝
@@ -53,9 +53,9 @@
 
         ╔════════════════════════════════════════════════════════════╗
         ║                         INTERESTS                          ║
-        ║                                                             ║
+        ║                                                            ║
         ║        Biocomputing           Philosophy                   ║
-        ║                                                           ║
+        ║                                                            ║
         ║        Astrophysics           Quantum Physics              ║
         ║                                                            ║
         ╚════════════════════════════════════════════════════════════╝
@@ -71,8 +71,6 @@
 
 
          ════════════════════════════════════════════════════════════
-                          "live fast, die slowly"               
+         ║                 "live fast, die slowly"                  ║
          ════════════════════════════════════════════════════════════                               
 </pre>
-
-
