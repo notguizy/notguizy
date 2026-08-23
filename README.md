@@ -24,7 +24,7 @@
 
 
         ╔════════════════════════════════════════════════════════════╗
-        ║                        LANGUAGES                           ║
+        ║                         LANGUAGES                          ║
         ║                                                            ║
         ║      [ HTML ]          [ CSS ]          [ JavaScript ]     ║
         ║                                                            ║
@@ -43,7 +43,7 @@
 
 
         ╔════════════════════════════════════════════════════════════╗
-        ║                    CURRENTLY LEARNING                      ║
+        ║                     CURRENTLY LEARNING                     ║
         ║                                                            ║
         ║                                                            ║
         ║        > Cybersecurity                                     ║
@@ -64,9 +64,9 @@
 
 
         ╔════════════════════════════════════════════════════════════╗
-        ║                      INCOMING PROJECT                      ║
+        ║                     INCOMING PROJECT                       ║
         ║                                                            ║
-        ║                         <a href="https://github.com/notguizy/LivingKey">Living Key</a>                         ║
+        ║                        <a href="https://github.com/notguizy/LivingKey">Living Key</a>                         ║
         ║                                                            ║
         ║                                                            ║
         ╚════════════════════════════════════════════════════════════╝
