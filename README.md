@@ -65,8 +65,8 @@
 
         ╔════════════════════════════════════════════════════════════╗
         ║                      INCOMING PROJECT                      ║
-        ║               <a href="https://github.com/notguizy/LivingKey">Living Key</a>             ║
         ║                                                            ║
+        ║ <a href="https://github.com/notguizy/LivingKey">Living Key</a>                                                           ║
         ║                                                            ║
         ║                                                            ║
         ╚════════════════════════════════════════════════════════════╝
