@@ -45,9 +45,10 @@
         ╔════════════════════════════════════════════════════════════╗
         ║                    CURRENTLY LEARNING                      ║
         ║                                                            ║
-        ║        > CS50 — Introduction to Computer Science           ║
+        ║                                                            ║
         ║        > Cybersecurity                                     ║
         ║        > C & Python                                        ║
+        ║        > Biocomputing                                      ║
         ║                                                            ║
         ╚════════════════════════════════════════════════════════════╝
 
@@ -55,7 +56,7 @@
         ╔════════════════════════════════════════════════════════════╗
         ║                         INTERESTS                          ║
         ║                                                            ║
-        ║        biocomputing           Philosophy                   ║
+        ║        Biocomputing           Philosophy                   ║
         ║                                                            ║
         ║        Astrophysics           Quantum Physics              ║
         ║                                                            ║
