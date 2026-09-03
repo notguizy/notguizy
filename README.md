@@ -33,9 +33,9 @@
         ╔════════════════════════════════════════════════════════════╗
         ║                        FOUNDATIONS                         ║
         ║                                                            ║
-        ║        [x] Linux Fundamentals                              ║
         ║        [x] Windows & Active Directory Fundamentals         ║
         ║        [x] Networking Fundamentals                         ║
+        ║        [x] Linux Fundamentals                              ║
         ║                                                            ║
         ╚════════════════════════════════════════════════════════════╝
 
