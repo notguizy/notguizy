@@ -44,8 +44,9 @@
         ║                     CURRENTLY LEARNING                     ║
         ║                                                            ║
         ║        > Python, C, Rust                                   ║
-        ║        > Cybersecurity                                     ║
-        ║        > Biocomputing                                      ║
+        ║        > Cybersecurity Basics                              ║
+        ║        > Computer Science                                  ║
+        ║                                                            ║
         ║                                                            ║
         ╚════════════════════════════════════════════════════════════╝
 
@@ -61,6 +62,6 @@
 
 
          ════════════════════════════════════════════════════════════
-                           "live fast, die slowly"                  
-         ════════════════════════════════════════════════════════════                               
+There is no light without shadow, and no psychic wholeness without imperfection.                 
+════════════════════════════════════════════════════════════════════════════════                                    
 </pre>
